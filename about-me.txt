@@ -3,3 +3,4 @@ Program: Computer Programming
 I want to learn how to collaborate on GitHub using pull requests.
 I also want to practice reviewing and merging pull requests
 I practiced making a change on a separate branch so it could be reviewed before merging.
+I edited this file on GitHub and will pull the merged change into my local repository.
